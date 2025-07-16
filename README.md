@@ -18,7 +18,7 @@ The main hallmark idea behind this particular project is to teach:
 
 ## Disclaimer
 
-Unfortunately, I suffer from ADD/Attention Deficit Disorder...which leads to *low attention span*;    
+Unfortunately, I suffer from ADD/Attention Deficit Disorder...which leads to very *low attention span*;    
 meaning, my attention will normally wonder off from any project I've just **started**...;    
 to go and do something else, instead.  
 
