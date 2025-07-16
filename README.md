@@ -15,13 +15,16 @@ The main hallmark idea behind this project is to teach using a mixture of both w
 
 ## Disclaimer
 
-Unfortunately, I suffer from ADD/Attention Deficit Disorder...; which leads to *low attention span*;    
+Unfortunately, I suffer from ADD/Attention Deficit Disorder...which leads to *low attention span*;    
 meaning, my attention will normally wonder off from any project I've just **started**...;    
 to go and do something else, instead.  
-That means, the vast majority of different projects I create;    
--(and, I seem to be interested in just about *everything and more*...?!)-  
-tend to remain being **unfinished**/and, therefore, left undone.   
 
-Bearing in mind that this is meant to be a forevermore *ongoing* project...;  
-therefore, only time will tell...if I will keep on regularly **updating** it/or, not...?    
-Or, if I will get just totally fed up, altogether...; and, just quite simply decide to *move on*...  
+This means, the vast majority of different projects I ever create...;    
+-(and, I seem to be interested in just about *everything and more*...?!)-  
+tend to remain being **unfinished**/and, therefore, are left totally open and undone.   
+
+Bearing in mind that this is meant to be a, forevermore, *ongoing* project...;  
+therefore, only Time alone will, well and truly, tell...  
+if I will keep on regularly *updating* it/or, not...?    
+Or, if I will, as usual, get just totally **fed up/bored**, altogether...;   
+and, therefore, quite simply decide to *move on*...to go studying doing something else.    
