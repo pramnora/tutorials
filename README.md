@@ -36,3 +36,17 @@ if I will keep on regularly *updating* it/or, not...?
 
 Or, if I will, as usual, just get totally **fed up/bored**, altogether...;   
 and, therefore, quite simply, decide to *move on*...  
+
+-----
+
+## The current stage
+
+At the moment, I've created the following web site layout:  
+
+**NOTE**: I'm using Linux Mint OS:  
+
+tutorials/
+index.html  
+...foreword.html  
+
+
