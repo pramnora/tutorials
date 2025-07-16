@@ -5,7 +5,7 @@
 
 This project can be viewed/interacted with 'live' at the following URL address:  
 
-- https://pr-tutorials.netlify.com
+- https://pr-tutorials.netlify.app  
   
 -----
 
