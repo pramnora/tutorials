@@ -3,7 +3,7 @@
 **CREATED**: *Wed 16 Jul 2025 10:30 AM GMT*  
 **UPDATED**: *Wed 16 Jul 2025 10:30 AM GMT*  
 
-This project can be viewed/interacted with 'live' at the following URL address:  
+This project can be viewed/interacted with 'live' by visiting the following URL address:  
 
 - https://pr-tutorials.netlify.app  
   
