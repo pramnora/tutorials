@@ -30,5 +30,5 @@ Bearing in mind that this is meant to be a, forevermore, *ongoing* project...;
 therefore, only Time alone will, well and truly, tell...  
 if I will keep on regularly *updating* it/or, not...?    
 
-Or, if I will, as usual, get just totally **fed up/bored**, altogether...;   
+Or, if I will, as usual, just get totally **fed up/bored**, altogether...;   
 and, therefore, quite simply, decide to *move on*...  
