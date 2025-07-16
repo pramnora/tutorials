@@ -7,13 +7,12 @@
 
 ## Introduction
 
-I've decided to create a project with the aim  of just doing some general online teaching.  
+I've decided to create a project with the aim of just doing some **general** online teaching.  
 
-The main hallmark idea behind this particular project is to teach...  
+The main hallmark idea behind this particular project is to teach:   
 
-- multiple subjects (and, not just merely one)  
+- multiple subjects (and, not just merely 'one')  
 - using a mixture of both words/but, also, mainly, through employing pictures(actual image screenshots)
-
 
 -----
 
