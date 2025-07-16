@@ -39,14 +39,21 @@ and, therefore, quite simply, decide to *move on*...
 
 -----
 
-## The current stage
+## The current stage: Web site 'sitemap'...  
+
+-(**NOTE**: I'm using Linux Mint Cinnamon OS.)-   
 
 At the moment, I've created the following web site layout:  
 
-**NOTE**: I'm using Linux Mint OS:  
+tutorials/  
+...index.html  
+...foreword.html      
+resources/  
+...css/   
+...css01.css    
+os/linux-mint/   
+...index.html  
 
-tutorials/
-index.html  
-...foreword.html  
-
+-(**NOTE** There are other folders/files included...;    
+but, here I'm only listing the parts that are already *up and working*.)-   
 
