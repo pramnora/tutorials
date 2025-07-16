@@ -32,4 +32,4 @@ if I will keep on regularly *updating* it/or, not...?
 
 Or, if I will, as usual, get just totally **fed up/bored**, altogether...;   
 and, therefore, quite simply, decide to *move on*...  
-and, go studying doing something else, instead.    
+and, go study doing something else, instead.    
