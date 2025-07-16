@@ -53,6 +53,8 @@ At the moment, I've created the following web site layout:
 >...css01.css    
 >os/linux-mint/   
 >...index.html  
+>os/linux-mint/editorial/  
+>...about.html  
 
 -(**NOTE** There are other folders/files included...;    
 but, here I'm only listing the parts that are already *up and working*.)-   
