@@ -56,6 +56,17 @@ At the moment, I've created the following web site layout:
 >os/linux-mint/editorial/  
 >...about.html  
 
--(**NOTE** There are other folders/files included...;    
+-(**NOTE** There are other folders/files which have been included...;     
 but, here I'm only listing the parts that are already *up and working*.)-   
 
+-----
+
+## Possible future changes...
+
+I'm thinking about where and how to store the site...
+  
+- Initially, I create a main *tutorials* folder...on my computer Desktop; and, then, use Netlify web service...to go upload everything using 'Manual deployment' mode. ADVANTAGE: Secure/No one else has access to the code(unless I send them the link)/also, at any point in time, I can tear down the site, immediatey, straight away...; by going to Netlify configuration...and, just select option: [delete site].
+- At some point, I intend to upload the entire site into of GitHub; -(because, there is no strictly 'private' data being contained inside that cannot be 'shared' with the general public)-; and, then, use Netlify web service...to *link* to my GitHub online **tutorials** repository; and, so serve the pages u from there...using 'Automatic deployment mode'. ADVANTAGE: whenever the GitHub pages change...; then, the site URL adddress should also reflect those change(s), automatically...; and, without my needing to, continually, go through 'Manual deployment', anymore.  
+- Optionally, I might decide to use the Linode site hosting service...; -(for which one has to pay a minumum of $5.00 per month to keep a *shared* server up and running)-; and, serve the pages from there. DISADVANTAGE: One loses $5.00 money every month. Also, Linode, just gives you a non secure web site address: http://nnn.nnn.nnn.nnn; meaning there is no automatic (https://) URL prefix.   
+
+-(**NOTE**: There are a number of other possiblities available, too...; such as, site hosting using cloud services: Azure/Amazon/Google/Vercel/-etc.; as well as, there is using Git inside of VSCode...and, uploading files into GitHub that way, instead.)-    
